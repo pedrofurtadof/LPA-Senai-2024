@@ -8,5 +8,3 @@ Curso Técnico em Análise de Desenvolvimento de sistemas
 ## Cronograma
 - [X] Aula 04 Introdução ao GitHub (07/02/2024)
 - Criação do perfil no GitHub
-
-Palmeiras
