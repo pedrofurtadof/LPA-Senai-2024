@@ -22,7 +22,8 @@ programa
 		escreva("quanto custou: ")
 		leia(n6)
 
-		escreva("Obrigado pela sua compra" ,n1, "Você adquiriu um" ,n5, "por R$5,0000.")
+		escreva("Obrigado pela sua compra " ,n1, "Você adquiriu um " ,n5, " por R$5,0000. ")
+		
 		
 		
 		
@@ -36,7 +37,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 428; 
+ * @POSICAO-CURSOR = 435; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
