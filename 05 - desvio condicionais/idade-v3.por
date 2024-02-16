@@ -1,5 +1,5 @@
 /*
-*algoritmo: idade-v2
+*algoritmo: idade-v3
 *autor: @PedroFurtadoFarias
 *data: 16/02/2024
 */
@@ -21,7 +21,7 @@ programa
 	  	escreva("voce e de menor :( ")
 	  }
 
-	  senao 
+	  se (idade >=18)
 	  {
 	  	escreva("voce ja pode ir em shows :) ")
 	  }
