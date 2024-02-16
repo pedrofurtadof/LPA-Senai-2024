@@ -50,6 +50,7 @@ programa
 	     escreva("resultado: \n")
 	     escreva(n1, " ", operador, " ", n2, " = ", resultado)
 	     escreva("\n") 
+	     
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -57,7 +58,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 776; 
+ * @POSICAO-CURSOR = 842; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
