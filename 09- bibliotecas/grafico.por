@@ -13,7 +13,7 @@ programa
 		g.definir_titulo_janela("Gráficos")
 		inteiro k = 0
 		enquanto (nao t.tecla_pressionada(t.TECLA_ESC)){
-			g.definir_cor(g.criar_cor(14,205,206))
+			g.definir_cor(g.criar_cor(110,23,250))
 			g.limpar()
 			g.definir_cor(g.COR_BRANCO)
 
@@ -35,7 +35,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 826; 
+ * @POSICAO-CURSOR = 513; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
